@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811226708856",
+    "firebase_url": "https://iot2-5fba7-default-rtdb.firebaseio.com",
+    "project_id": "iot2-5fba7",
+    "storage_bucket": "iot2-5fba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811226708856:android:7ebdd23b6cc41ba5cfe68d",
+        "android_client_info": {
+          "package_name": "com.example.untitled5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811226708856-jgq6abnab55m7aemo409rgirecic2ced.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBGYvb2ZWLuq9dmYoQZKYsOsoYSjq2VsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811226708856-jgq6abnab55m7aemo409rgirecic2ced.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811226708856-oda00n5f8fhqhdku11a10kqr0nagc9co.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled5"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
